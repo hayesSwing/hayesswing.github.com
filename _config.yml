@@ -1,4 +1,4 @@
-baseurl: hayesswing.github.com
+baseurl: /
 markdown: redcarpet
 safe: false
 pygments: true
