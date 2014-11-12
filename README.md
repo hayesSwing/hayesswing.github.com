@@ -15,3 +15,5 @@ https://github.com/coleflowers/coleflowers.github.com/blob/master/index.html
 http://minixalpha.github.io/
 
 
+http://github.tiankonguse.com/blog/2014/11/10/jekyll-study/
+
