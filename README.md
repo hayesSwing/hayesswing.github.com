@@ -28,3 +28,13 @@ https://github.com/javachen
 http://truongtx.me/2013/05/01/jekyll-read-more-feature-without-any-plugin/
 
 
+http://blog.csdn.net/on_1y/article/details/19259435
+
+http://www.freehao123.com/github-pages/2/
+
+
+
+
+
+
+
