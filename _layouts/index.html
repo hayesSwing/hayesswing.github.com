@@ -38,8 +38,8 @@
     <div class="blog-masthead">
       <div class="container">
         <nav class="blog-nav">
-          <a class="blog-nav-item" href="../index.html">主页</a>
-          <a class="blog-nav-item active" href="../blog.html">博客</a>
+          <a class="blog-nav-item active" href="../index.html">主页</a>
+          <a class="blog-nav-item" href="../blog.html">博客</a>
           <a class="blog-nav-item" href="#">Press</a>
           <a class="blog-nav-item" href="#">New hires</a>
           <a class="blog-nav-item" href="../about.html">关于我</a>
@@ -58,7 +58,7 @@
             <h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p class="blog-post-meta">{{ post.date | date_to_string }} </p>
 
-            <p>This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
+            <p>{{ content }}</p>
             <hr>
             
             <p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>

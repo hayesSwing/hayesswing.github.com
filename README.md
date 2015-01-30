@@ -17,3 +17,14 @@ http://minixalpha.github.io/
 
 http://github.tiankonguse.com/blog/2014/11/10/jekyll-study/
 
+
+2015-01-30
+
+http://blog.javachen.com/2013/08/31/my-jekyll-config/
+
+https://github.com/javachen
+
+
+http://truongtx.me/2013/05/01/jekyll-read-more-feature-without-any-plugin/
+
+
