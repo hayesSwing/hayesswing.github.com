@@ -1,3 +1,5 @@
+http://hayesswing.github.io/
+
 http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
 
 http://yanping.me/cn/blog/2011/12/15/building-static-sites-with-jekyll/
@@ -12,4 +14,6 @@ https://github.com/coleflowers/coleflowers.github.com/blob/master/index.html
 
 http://minixalpha.github.io/
 
+
+http://github.tiankonguse.com/blog/2014/11/10/jekyll-study/
 
