@@ -58,10 +58,11 @@
             <h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p class="blog-post-meta">{{ post.date | date_to_string }} </p>
 
-            <p>{{ content }}</p>
+            <p>{{ page.content }}</p>
             <hr>
             
-            <p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+			<p>{{ page.excerpt }}</p>
+            <p>{{ page.tags }}Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
           </div><!-- /.blog-post -->
 		  {% endfor %}
 		  
@@ -76,8 +77,8 @@
 
         <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
           <div class="sidebar-module sidebar-module-inset">
-            <h4>About</h4>
-            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+            <h4>我是祥子</h4>
+            <p>欢迎来到祥子的博客，听祥子闲聊。</p>
           </div>
           <div class="sidebar-module widget">
             <h4 class="widget-title">文章归档</h4>
