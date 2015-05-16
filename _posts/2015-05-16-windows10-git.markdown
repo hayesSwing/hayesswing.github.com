@@ -1,0 +1,8 @@
+---
+layout: post
+title: Windows10虚拟机下安装了msysgit,这下提交博客方便了啊
+tags: 碎碎念
+---
+
+Windows10虚拟机下安装了msysgit，这下提交博客方便了啊。希望能够坚持下去！
+下一步熟悉Markdown语法哟！
