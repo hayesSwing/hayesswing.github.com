@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # maven ignore
 target/
 #*.jar
@@ -36,3 +37,7 @@ Thumbs.db
 /logs
 *.log.*
 
+=======
+_site
+.sass-cache
+>>>>>>> a9f0d4ad2e38eecfa693dff8e9f0d88f0a5bfde7

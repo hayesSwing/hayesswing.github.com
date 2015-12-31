@@ -1,6 +1,35 @@
-baseurl: /
-markdown: redcarpet
-safe: false
-pygments: true
-excerpt_separator: "\n\n\n"
-paginate: 1
+# Site settings
+title: hayesswing
+email: "hayesswing@gmail.com"
+description: "hayesswing's front-end blog."
+baseurl: ""
+url: "http://hayesswing.github.io"
+
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'tag'
+
+
+# Social account
+# twitter:  username
+# weibo:    ID
+# github:   username
+# codepen:  username
+# dribbble: username
+
+
+# Comment
+# disqus_shortname: discussion_shortname
+
+
+# Google Analytics
+# google_analytics: tracking_ID
+
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
