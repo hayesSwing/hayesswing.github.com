@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 开始学习Node.js
-tags: node.js
+tags: nodejs
 ---
 
 ####制定计划开始学习Node.js
